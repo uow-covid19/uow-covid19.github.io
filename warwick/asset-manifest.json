@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/warwick/static/css/main.cbe442cf.chunk.css",
-    "main.js": "/warwick/static/js/main.fb0546ed.chunk.js",
-    "main.js.map": "/warwick/static/js/main.fb0546ed.chunk.js.map",
+    "main.css": "/warwick/static/css/main.9fc48b67.chunk.css",
+    "main.js": "/warwick/static/js/main.41488fe3.chunk.js",
+    "main.js.map": "/warwick/static/js/main.41488fe3.chunk.js.map",
     "runtime-main.js": "/warwick/static/js/runtime-main.1432b9be.js",
     "runtime-main.js.map": "/warwick/static/js/runtime-main.1432b9be.js.map",
-    "static/js/2.c623ae1f.chunk.js": "/warwick/static/js/2.c623ae1f.chunk.js",
-    "static/js/2.c623ae1f.chunk.js.map": "/warwick/static/js/2.c623ae1f.chunk.js.map",
+    "static/js/2.83d83e6b.chunk.js": "/warwick/static/js/2.83d83e6b.chunk.js",
+    "static/js/2.83d83e6b.chunk.js.map": "/warwick/static/js/2.83d83e6b.chunk.js.map",
     "index.html": "/warwick/index.html",
-    "precache-manifest.b33fd99e55a510417385d950306e3408.js": "/warwick/precache-manifest.b33fd99e55a510417385d950306e3408.js",
+    "precache-manifest.30ac78b97416496456e9a075a65ad7aa.js": "/warwick/precache-manifest.30ac78b97416496456e9a075a65ad7aa.js",
     "service-worker.js": "/warwick/service-worker.js",
-    "static/css/main.cbe442cf.chunk.css.map": "/warwick/static/css/main.cbe442cf.chunk.css.map",
-    "static/js/2.c623ae1f.chunk.js.LICENSE.txt": "/warwick/static/js/2.c623ae1f.chunk.js.LICENSE.txt"
+    "static/css/main.9fc48b67.chunk.css.map": "/warwick/static/css/main.9fc48b67.chunk.css.map",
+    "static/js/2.83d83e6b.chunk.js.LICENSE.txt": "/warwick/static/js/2.83d83e6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1432b9be.js",
-    "static/js/2.c623ae1f.chunk.js",
-    "static/css/main.cbe442cf.chunk.css",
-    "static/js/main.fb0546ed.chunk.js"
+    "static/js/2.83d83e6b.chunk.js",
+    "static/css/main.9fc48b67.chunk.css",
+    "static/js/main.41488fe3.chunk.js"
   ]
 }
