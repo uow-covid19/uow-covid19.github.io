@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nottingham/static/css/main.cbe442cf.chunk.css",
-    "main.js": "/nottingham/static/js/main.b467978f.chunk.js",
-    "main.js.map": "/nottingham/static/js/main.b467978f.chunk.js.map",
+    "main.css": "/nottingham/static/css/main.9fc48b67.chunk.css",
+    "main.js": "/nottingham/static/js/main.757c7d36.chunk.js",
+    "main.js.map": "/nottingham/static/js/main.757c7d36.chunk.js.map",
     "runtime-main.js": "/nottingham/static/js/runtime-main.a9bf8f14.js",
     "runtime-main.js.map": "/nottingham/static/js/runtime-main.a9bf8f14.js.map",
-    "static/js/2.c623ae1f.chunk.js": "/nottingham/static/js/2.c623ae1f.chunk.js",
-    "static/js/2.c623ae1f.chunk.js.map": "/nottingham/static/js/2.c623ae1f.chunk.js.map",
+    "static/js/2.83d83e6b.chunk.js": "/nottingham/static/js/2.83d83e6b.chunk.js",
+    "static/js/2.83d83e6b.chunk.js.map": "/nottingham/static/js/2.83d83e6b.chunk.js.map",
     "index.html": "/nottingham/index.html",
-    "precache-manifest.51a6c47f8f6731acec1a8a1a2b373762.js": "/nottingham/precache-manifest.51a6c47f8f6731acec1a8a1a2b373762.js",
+    "precache-manifest.399b6dba2d346b9852e33b51c63a0554.js": "/nottingham/precache-manifest.399b6dba2d346b9852e33b51c63a0554.js",
     "service-worker.js": "/nottingham/service-worker.js",
-    "static/css/main.cbe442cf.chunk.css.map": "/nottingham/static/css/main.cbe442cf.chunk.css.map",
-    "static/js/2.c623ae1f.chunk.js.LICENSE.txt": "/nottingham/static/js/2.c623ae1f.chunk.js.LICENSE.txt"
+    "static/css/main.9fc48b67.chunk.css.map": "/nottingham/static/css/main.9fc48b67.chunk.css.map",
+    "static/js/2.83d83e6b.chunk.js.LICENSE.txt": "/nottingham/static/js/2.83d83e6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a9bf8f14.js",
-    "static/js/2.c623ae1f.chunk.js",
-    "static/css/main.cbe442cf.chunk.css",
-    "static/js/main.b467978f.chunk.js"
+    "static/js/2.83d83e6b.chunk.js",
+    "static/css/main.9fc48b67.chunk.css",
+    "static/js/main.757c7d36.chunk.js"
   ]
 }
