@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/oxford/static/css/main.9fc48b67.chunk.css",
-    "main.js": "/oxford/static/js/main.73d36925.chunk.js",
-    "main.js.map": "/oxford/static/js/main.73d36925.chunk.js.map",
+    "main.js": "/oxford/static/js/main.5526260d.chunk.js",
+    "main.js.map": "/oxford/static/js/main.5526260d.chunk.js.map",
     "runtime-main.js": "/oxford/static/js/runtime-main.094e0e1b.js",
     "runtime-main.js.map": "/oxford/static/js/runtime-main.094e0e1b.js.map",
     "static/js/2.83d83e6b.chunk.js": "/oxford/static/js/2.83d83e6b.chunk.js",
     "static/js/2.83d83e6b.chunk.js.map": "/oxford/static/js/2.83d83e6b.chunk.js.map",
     "index.html": "/oxford/index.html",
-    "precache-manifest.8a0bd4b4ff764c44ef1ccded0113622e.js": "/oxford/precache-manifest.8a0bd4b4ff764c44ef1ccded0113622e.js",
+    "precache-manifest.d76392199f8ea2c560a3abe943d21d65.js": "/oxford/precache-manifest.d76392199f8ea2c560a3abe943d21d65.js",
     "service-worker.js": "/oxford/service-worker.js",
     "static/css/main.9fc48b67.chunk.css.map": "/oxford/static/css/main.9fc48b67.chunk.css.map",
     "static/js/2.83d83e6b.chunk.js.LICENSE.txt": "/oxford/static/js/2.83d83e6b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.094e0e1b.js",
     "static/js/2.83d83e6b.chunk.js",
     "static/css/main.9fc48b67.chunk.css",
-    "static/js/main.73d36925.chunk.js"
+    "static/js/main.5526260d.chunk.js"
   ]
 }
