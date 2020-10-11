@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/liverpool/static/css/main.9fc48b67.chunk.css",
-    "main.js": "/liverpool/static/js/main.a0678b3d.chunk.js",
-    "main.js.map": "/liverpool/static/js/main.a0678b3d.chunk.js.map",
+    "main.js": "/liverpool/static/js/main.8ac5e28c.chunk.js",
+    "main.js.map": "/liverpool/static/js/main.8ac5e28c.chunk.js.map",
     "runtime-main.js": "/liverpool/static/js/runtime-main.fc8e2fe1.js",
     "runtime-main.js.map": "/liverpool/static/js/runtime-main.fc8e2fe1.js.map",
     "static/js/2.83d83e6b.chunk.js": "/liverpool/static/js/2.83d83e6b.chunk.js",
     "static/js/2.83d83e6b.chunk.js.map": "/liverpool/static/js/2.83d83e6b.chunk.js.map",
     "index.html": "/liverpool/index.html",
-    "precache-manifest.95847637f317db27d76e96a6fe1eb099.js": "/liverpool/precache-manifest.95847637f317db27d76e96a6fe1eb099.js",
+    "precache-manifest.b455110989b1fbf3f00aeaa9c12815ca.js": "/liverpool/precache-manifest.b455110989b1fbf3f00aeaa9c12815ca.js",
     "service-worker.js": "/liverpool/service-worker.js",
     "static/css/main.9fc48b67.chunk.css.map": "/liverpool/static/css/main.9fc48b67.chunk.css.map",
     "static/js/2.83d83e6b.chunk.js.LICENSE.txt": "/liverpool/static/js/2.83d83e6b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fc8e2fe1.js",
     "static/js/2.83d83e6b.chunk.js",
     "static/css/main.9fc48b67.chunk.css",
-    "static/js/main.a0678b3d.chunk.js"
+    "static/js/main.8ac5e28c.chunk.js"
   ]
 }
