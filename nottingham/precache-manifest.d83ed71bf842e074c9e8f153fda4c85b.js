@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0dd89245edb44eabae075e7d2e2a94b0",
+    "revision": "41c5cb457db2393b8213bfd29ea26c32",
     "url": "/nottingham/index.html"
   },
   {
-    "revision": "1d7756cae0d2872a6a7f",
+    "revision": "85c97af4c98be683a241",
     "url": "/nottingham/static/css/main.9fc48b67.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nottingham/static/js/2.83d83e6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d7756cae0d2872a6a7f",
-    "url": "/nottingham/static/js/main.30983a7b.chunk.js"
+    "revision": "85c97af4c98be683a241",
+    "url": "/nottingham/static/js/main.1e2621fa.chunk.js"
   },
   {
     "revision": "d1e7d99e01721a38f53b",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/newcastle/static/css/main.9fc48b67.chunk.css",
-    "main.js": "/newcastle/static/js/main.eb134a56.chunk.js",
-    "main.js.map": "/newcastle/static/js/main.eb134a56.chunk.js.map",
+    "main.js": "/newcastle/static/js/main.aa6685c7.chunk.js",
+    "main.js.map": "/newcastle/static/js/main.aa6685c7.chunk.js.map",
     "runtime-main.js": "/newcastle/static/js/runtime-main.65da4f45.js",
     "runtime-main.js.map": "/newcastle/static/js/runtime-main.65da4f45.js.map",
     "static/js/2.83d83e6b.chunk.js": "/newcastle/static/js/2.83d83e6b.chunk.js",
     "static/js/2.83d83e6b.chunk.js.map": "/newcastle/static/js/2.83d83e6b.chunk.js.map",
     "index.html": "/newcastle/index.html",
-    "precache-manifest.5cc44262e604e54dabbc67f4c44c4cc5.js": "/newcastle/precache-manifest.5cc44262e604e54dabbc67f4c44c4cc5.js",
+    "precache-manifest.cfe1952820d6eb19d65ee8394e6bba73.js": "/newcastle/precache-manifest.cfe1952820d6eb19d65ee8394e6bba73.js",
     "service-worker.js": "/newcastle/service-worker.js",
     "static/css/main.9fc48b67.chunk.css.map": "/newcastle/static/css/main.9fc48b67.chunk.css.map",
     "static/js/2.83d83e6b.chunk.js.LICENSE.txt": "/newcastle/static/js/2.83d83e6b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.65da4f45.js",
     "static/js/2.83d83e6b.chunk.js",
     "static/css/main.9fc48b67.chunk.css",
-    "static/js/main.eb134a56.chunk.js"
+    "static/js/main.aa6685c7.chunk.js"
   ]
 }
