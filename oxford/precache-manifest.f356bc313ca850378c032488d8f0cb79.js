@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b30564a5711a229ba85368d7fdd6b9e",
+    "revision": "ed5b3a4b2cfbae33368b144b808f23c6",
     "url": "/oxford/index.html"
   },
   {
-    "revision": "3c491cba3d97a702bb01",
+    "revision": "3b573349b3eb2034ea9b",
     "url": "/oxford/static/css/main.9fc48b67.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oxford/static/js/2.83d83e6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c491cba3d97a702bb01",
-    "url": "/oxford/static/js/main.5526260d.chunk.js"
+    "revision": "3b573349b3eb2034ea9b",
+    "url": "/oxford/static/js/main.b192ee91.chunk.js"
   },
   {
     "revision": "57c5a18e7b3fba440fb3",
